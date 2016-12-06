@@ -52,7 +52,7 @@ namespace Warcaby
         }
         private bool CzyPoprawnePole(int k)
         {
-            if (k > 0 && k < 9)
+            if (k >= 0 && k < 8)
                 return true;
             else
                 return false;

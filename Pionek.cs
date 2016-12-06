@@ -29,7 +29,7 @@ public class Pionek
     {
         return _czy_bialy;
     }
-    // Wlasnosci
+    // Wlasciwosci
     public Pozycja Pozycja
     {
         get
