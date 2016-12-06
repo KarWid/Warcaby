@@ -1,0 +1,9 @@
+C:\Users\Admin\Desktop\Warcaby\obj\Debug\assemblies\Warcaby.dll
+C:\Users\Admin\Desktop\Warcaby\obj\Debug\assemblies\Mono.Android.dll
+C:\Users\Admin\Desktop\Warcaby\obj\Debug\assemblies\mscorlib.dll
+C:\Users\Admin\Desktop\Warcaby\obj\Debug\assemblies\System.Core.dll
+C:\Users\Admin\Desktop\Warcaby\obj\Debug\assemblies\System.dll
+C:\Users\Admin\Desktop\Warcaby\obj\Debug\assemblies\System.Xml.dll
+C:\Users\Admin\Desktop\Warcaby\obj\Debug\assemblies\System.Xml.Linq.dll
+C:\Users\Admin\Desktop\Warcaby\obj\Debug\assemblies\System.Runtime.Serialization.dll
+C:\Users\Admin\Desktop\Warcaby\obj\Debug\assemblies\System.ServiceModel.Internals.dll

@@ -1,0 +1,4 @@
+Warcaby.MainActivity, Warcaby;md5b5666c648634ac3bda4d407892d52baa.MainActivity
+Warcaby.MainActivity, Warcaby, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5b5666c648634ac3bda4d407892d52baa.MainActivity
+Warcaby.MainActivity;md5b5666c648634ac3bda4d407892d52baa.MainActivity
+warcaby.MainActivity;md5b5666c648634ac3bda4d407892d52baa.MainActivity

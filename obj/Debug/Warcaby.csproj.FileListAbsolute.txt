@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Warcaby\bin\Debug\Warcaby.dll
+C:\Users\Admin\Desktop\Warcaby\bin\Debug\Warcaby.pdb
+C:\Users\Admin\Desktop\Warcaby\bin\Debug\Warcaby.Warcaby.apk
+C:\Users\Admin\Desktop\Warcaby\bin\Debug\Warcaby.Warcaby-Signed.apk
+C:\Users\Admin\Desktop\Warcaby\obj\Debug\Warcaby.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Warcaby\obj\Debug\Warcaby.dll
+C:\Users\Admin\Desktop\Warcaby\obj\Debug\Warcaby.pdb
+C:\Users\Admin\Desktop\Warcaby\obj\Debug\android\bin\Warcaby.Warcaby.apk
+C:\Users\Admin\Desktop\Warcaby\obj\Debug\res\layout\main.xml
+C:\Users\Admin\Desktop\Warcaby\obj\Debug\res\values\strings.xml
+C:\Users\Admin\Desktop\Warcaby\obj\Debug\res\drawable\icon.png
+C:\Users\Admin\Desktop\Warcaby\obj\Debug\R.cs.flag
+C:\Users\Admin\Desktop\Warcaby\obj\Debug\uploadflags.txt
+C:\Users\Admin\Desktop\Warcaby\obj\Debug\Warcaby.dll.mdb
+C:\Users\Admin\Desktop\Warcaby\bin\Debug\Warcaby.dll.mdb
